@@ -64,7 +64,52 @@ A contact form that submits messages successfully or a responsive “Buy Now” 
 ## 
 
 ## **Types of Wireframes**
+**Wireframes can vary in detail and purpose depending on the stage of the design process. They are generally categorized as Low-Fidelity and High-Fidelity wireframes. Each serves a distinct role in transforming ideas into functional designs.**
 
+### 1. Low-Fidelity Wireframes
+
+Definition:
+Low-fidelity _(lo-fi)_ wireframes are simple sketches or basic digital layouts that focus on the overall structure and functionality of a design rather than aesthetics. They often use placeholders, basic shapes, and minimal text to represent content areas and interface components.
+
+Purpose and Use:
+These wireframes are typically created in the early stages of the design process to quickly explore ideas, test layout concepts, and gather feedback before committing time and resources to visual details. Because they are quick to create and easy to modify, they encourage collaboration and iteration.
+
+Example:
+A designer might sketch a lo-fi wireframe of a mobile app on paper or use a simple tool like Balsamiq to show where buttons, images, and text blocks will appear—without adding colors, icons, or typography.
+
+### 2. High-Fidelity Wireframes
+
+Definition:
+High-fidelity _(hi-fi)_ wireframes are detailed, polished representations of a design that closely resemble the final product. They include specific layout elements, accurate spacing, refined typography, and interactive components that simulate real user experiences.
+
+Purpose and Use:
+Hi-fi wireframes are typically used in the later stages of the design process, once the structure and functionality have been confirmed. They help visualize design accuracy, test user interactions, and prepare for the development phase.
+
+Example:
+A high-fidelity wireframe might be created using Figma or Adobe XD, showing exact colors, icons, fonts, and interactive buttons to present a realistic preview of the final user interface.
+
+### **🧱 Type of Wireframe Used in the Figma Project**
+
+#### **High-Fidelity Wireframe**
+
+The wireframe presented in the Figma file represents a High-Fidelity (Hi-Fi) Wireframe. This type of wireframe is characterized by its detailed visual design, precise layout, and interactive components that closely mirror the final user interface.
+
+In the Project Airbnb design, the wireframe includes clearly defined typography, color schemes, realistic spacing, and clickable elements such as buttons, navigation menus, and icons. These features indicate that the design has progressed beyond the conceptual stage and is now in a refined, pre-development phase.
+
+Purpose and Role:
+High-Fidelity wireframes are typically used in the later stages of the design process to:
+
+ - Demonstrate the look and feel of the final product.
+
+ - Test user interactions and interface usability.
+
+ - Facilitate developer handoff by showing exact dimensions, spacing, and behavior.
+
+ - Present a realistic prototype to stakeholders for approval before implementation.
+
+The use of real images, distinct color palettes, and interactive features such as booking buttons or property cards indicates that this design is well beyond the planning phase. It serves as a near-final visual representation of the product.
+
+## 
 
 ## **Wireframing Tools**
 
