@@ -22,7 +22,7 @@ In essence, a wireframe focuses on layout, hierarchy, and user interaction, show
 ✅ **Introduces predictable outcomes:** Creates clear expectations about how the final product will look and function.
 ## 
 
-## **Key Elements in a Wireframe**
+## **🗝️Key Elements in a Wireframe**
 
 **The key elements of a wireframe include Layout Structure, Navigation, Content Placement, and Functionality. Each of these contributes significantly to creating an intuitive and user-friendly design.**
 
